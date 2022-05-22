@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nist
+- 👀 I’m interested in BSD/*nix, security, testing, healing, wake up from this dream
+- 🌱 I’m currently learning Erlang and tweeking a linux setup
+- BTW I'm not affiliated whatsoever with [NIST](https://www.nist.gov/)
+- 📫 For more information, see my [Carrd](https://nist.carrd.co/)
