@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nist
 - 👀 I’m interested in BSD/*nix, security, testing
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) and [Mirage OS](https://mirage.io/)
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) and [WebAssembly](https://webassembly.org/)
 - BTW I'm not affiliated whatsoever with [NIST](https://www.nist.gov/)
 - 📫 For more information, see my [Carrd](https://nist.carrd.co/)
